@@ -1,2 +1,2 @@
-# final_project
-capstone project
+# final project
+this repo is for IBM coursera specialization capstone project
